@@ -1,15 +1,15 @@
 {
-    "name": "element-desktop",
-    "productName": "Element",
+    "name": "Polarius-desktop",
+    "productName": "Polarius",
     "main": "lib/electron-main.js",
     "exports": "./lib/electron-main.js",
     "version": "1.11.110",
-    "description": "Element: the future of secure communication",
+    "description": "Polarius: the future of secure communication",
     "author": {
-        "name": "Element",
+        "name": "Polarius",
         "email": "support@element.io"
     },
-    "homepage": "https://element.io",
+    "homepage": "https://brotherhood42.github.io",
     "repository": {
         "type": "git",
         "url": "https://github.com/vector-im/element-desktop"
